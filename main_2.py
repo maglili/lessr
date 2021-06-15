@@ -65,11 +65,11 @@ from utils.data.collate import (
 )
 from utils.train import TrainRunner
 
-from lessr import LESSR
+# from lessr import LESSR
 
 # from lessr_m import LESSR
 
-# from lessr_m2 import LESSR
+from lessr_m2 import LESSR
 
 # keep random seed
 import random
